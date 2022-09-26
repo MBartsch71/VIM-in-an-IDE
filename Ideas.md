@@ -1,0 +1,21 @@
+## Ideas
+
+- Show the integration in Eclipse
+- How to install
+- Settings
+- Example as steps at an Fizzbuzz Code Kata
+	- How to create a package
+		- :tabnew
+	- how to create the program
+		- :tabnew
+	- test class creation
+		- test class template, without method
+		- method creation and jump in method ( shift F2 + _ )
+		- first method
+		- creation of setup method and moving via VIM
+	- special commands
+		- inspection of registers
+		- macros
+		- splitting ( C-W v ) and navigation (C-W left,right )
+		- closing spilts ( C-W )
+		- tab switching ( gt, Gt )
